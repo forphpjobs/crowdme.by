@@ -1,7 +1,7 @@
 <?php
 return array(
 
-
+    'ajax/news'=>'ajax/index', // подгрузка новостей при скролле
 
     'admin/moder/delete'=>'adminmoder/delete',
     'admin/comment/add'=>'admincomment/add',
