@@ -126,22 +126,27 @@
 .SN
 {
     background: url("/resourse/assets/img/SN.jpg") center center/cover no-repeat;
+    margin-bottom: 25px;
 }
 .SR
 {
     background: url("/resourse/assets/img/SR.jpg") center center/cover no-repeat;
+    margin-bottom: 25px;
 }
 .MM
 {
     background: url("/resourse/assets/img/MM.jpg") center center/cover no-repeat;
+    margin-bottom: 25px;
 }
 .KP
 {
     background: url("/resourse/assets/img/KP.jpg") center center/cover no-repeat;
+    margin-bottom: 25px;
 }
 .KMR
 {
     background: url("/resourse/assets/img/KMR.jpg") center center/cover no-repeat;
+    margin-bottom: 25px;
 }
 
 form.login{
@@ -285,17 +290,20 @@ nav{
 
 .btn_header{
     margin-top: 21px;
-    width: 100px;
+    width: 37px;
     height: 37px;
     opacity: 0.81;
     border: solid 1px #707173;
-    background-color: #add136;
+    background-color: #000000;
     border-radius: 20px;
     font-size: 13px;
     font-weight: 600;
     letter-spacing: normal;
     text-align: center;
     color: rgba(255, 255, 255, 0.81);
+}
+.fab fa-dev{
+    font-size: 25px;
 }
 .sub_header{
     margin-top: 85px;
